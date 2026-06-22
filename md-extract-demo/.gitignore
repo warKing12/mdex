@@ -1,0 +1,22 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Output files
+result.md
+diagnostics.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test data (optional)
+test/
+example/
+sample/
